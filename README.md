@@ -5,5 +5,4 @@ I am looking for work and projects where I am able to apply my experience and kn
 
 
 
-                              Languages & Frameworks:
-                              ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+                              
